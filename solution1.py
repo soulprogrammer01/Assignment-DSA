@@ -11,5 +11,5 @@ for i in string:
    if i == char.upper() or i == char.lower() :
       # incrementing frequency on match
       frequency += 1
-# printing the count
+# printing the frequency
 print(frequency)
